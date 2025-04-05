@@ -1,3 +1,3 @@
-# yes_no
+# Yes No App
 
-A new Flutter project.
+Basic example of API calls and data mapping.
